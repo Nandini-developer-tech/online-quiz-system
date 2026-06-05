@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quiz</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body style="background-color:green">
+
+<div class="quiz-container">
+
+    <h2>Quiz</h2>
+
+    <form action="/submit" method="POST">
+
+        {% for q in questions %}
+
+        <div class="question-box">
+
+            <h3>
+                {{ loop.index }}.
+                {{ q.question }}
+            </h3>
+
+            <label>
+                <input type="radio"
+                       name="{{ q.question_id }}"
+                       value="{{ q.option1 }}"
+                       required>
+                {{ q.option1 }}
+            </label>
+
+            <label>
+                <input type="radio"
+                       name="{{ q.question_id }}"
+                       value="{{ q.option2 }}">
+                {{ q.option2 }}
+            </label>
+
+            <label>
+                <input type="radio"
+                       name="{{ q.question_id }}"
+                       value="{{ q.option3 }}">
+                {{ q.option3 }}
+            </label>
+
+            <label>
+                <input type="radio"
+                       name="{{ q.question_id }}"
+                       value="{{ q.option4 }}">
+                {{ q.option4 }}
+            </label>
+
+        </div>
+
+        {% endfor %}
+
+        <button type="submit">
+            Submit Quiz
+        </button>
+
+    </form>
+
+</div>
+
+</body>
+</html>
