@@ -25,8 +25,8 @@ The system automatically evaluates answers, calculates scores, stores quiz resul
 * MySQL
 
 ---
-
-# Project Structure
+  
+# Project Structure  
 
 ```text
 online_quiz_system/    
