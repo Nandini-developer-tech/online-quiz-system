@@ -53,7 +53,7 @@ online_quiz_system/
 
 ## 1. app.py
 
-This is the main file of the project. It contains all the Flask routes and application logic.       
+This is the main file of the project. It contains all the Flask routes and application logic.           
 
 ### Responsibilities
 
