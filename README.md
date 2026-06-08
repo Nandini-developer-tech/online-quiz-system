@@ -125,7 +125,7 @@ This page displays all available quiz subjects.
 * Java
 * DBMS
 * Operating System     
-* Computer Networks
+* Computer Networks          
 
 ### Functionality
 
