@@ -141,7 +141,7 @@ This page displays quiz questions and answer options.
 
 * Retrieves questions from the database.
 * Displays questions dynamically.
-* Allows users to select answers using radio buttons.
+* Allows users to select answers using radio buttons.      
 * Submits answers for evaluation.
 
 ### Example
