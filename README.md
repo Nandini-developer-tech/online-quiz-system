@@ -55,7 +55,7 @@ online_quiz_system/
 
 This is the main file of the project. It contains all the Flask routes and application logic.                    
 
-### Responsibilities
+### Responsibilities     
 
 * Establishes database connection
 * Handles user registration
