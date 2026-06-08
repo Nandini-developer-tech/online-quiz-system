@@ -96,7 +96,7 @@ This page allows new users to create an account.
 
 ### Functionality
 
-When the user clicks the Register button, the entered information is stored in the `users` table of the database.
+When the user clicks the Register button, the entered information is stored in the `users` table of the database.            
 
 ---
 
