@@ -124,7 +124,7 @@ This page displays all available quiz subjects.
 * Python
 * Java
 * DBMS
-* Operating System
+* Operating System     
 * Computer Networks
 
 ### Functionality
