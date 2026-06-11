@@ -136,7 +136,7 @@ The user selects a subject and clicks the "Start Quiz" button. The selected subj
 ## 5. templates/quiz.html
 
 This page displays quiz questions and answer options.
-
+         
 ### Functionality
 
 * Retrieves questions from the database.
