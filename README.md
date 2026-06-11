@@ -38,7 +38,7 @@ online_quiz_system/
 │   ├── login.html
 │   ├── subjects.html
 │   ├── quiz.html
-│   ├── result.html
+│   ├── result.html     
 │   └── history.html
 │
 ├── static/
