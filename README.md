@@ -83,7 +83,7 @@ This is the main file of the project. It contains all the Flask routes and appli
 | /logout   | Logs out the user                      |
 
 ---
-
+   
 ## 2. templates/register.html
 
 This page allows new users to create an account.
