@@ -1,5 +1,5 @@
 # Online Quiz System
-
+ 
 ## Project Overview    
        
 The Online Quiz System is a web-based application developed using **Python Flask, MySQL, HTML, and CSS**. The system allows users to register, log in, select a subject, attempt quizzes, and view their results. The application supports multiple subjects such as Python, Java, DBMS, Operating Systems, and Computer Networks. Questions are stored in a MySQL database and are displayed dynamically based on the subject selected by the user.         
