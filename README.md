@@ -91,7 +91,7 @@ This page allows new users to create an account.
 ### Fields
 
 * Username
-* Email
+* Email       
 * Password
 
 ### Functionality
