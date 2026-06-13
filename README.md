@@ -28,7 +28,7 @@ The system automatically evaluates answers, calculates scores, stores quiz resul
   
 # Project Structure  
 
-```text
+```text          
 online_quiz_system/    
 │
 ├── app.py
