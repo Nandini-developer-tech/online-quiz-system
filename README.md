@@ -8,7 +8,7 @@ The system automatically evaluates answers, calculates scores, stores quiz resul
 
 ---
 
-# Technologies Used                 
+# Technologies Used                     
     
 ### Frontend
 
