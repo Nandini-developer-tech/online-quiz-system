@@ -67,7 +67,7 @@ This is the main file of the project. It contains all the Flask routes and appli
 * Stores results in the database
 * Displays quiz history
 * Manages user sessions
-* Handles logout functionality
+* Handles logout functionality       
 
 ### Routes Used
 
