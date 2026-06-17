@@ -36,7 +36,7 @@ online_quiz_system/
 ├── templates/
 │   ├── register.html
 │   ├── login.html
-│   ├── subjects.html
+│   ├── subjects.html         
 │   ├── quiz.html
 │   ├── result.html           
 │   └── history.html
