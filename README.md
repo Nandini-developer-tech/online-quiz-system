@@ -26,7 +26,7 @@ The system automatically evaluates answers, calculates scores, stores quiz resul
 
 ---
   
-# Project Structure  
+# Project Structure       
 
 ```text          
 online_quiz_system/               
