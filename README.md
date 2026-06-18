@@ -20,7 +20,7 @@ The system automatically evaluates answers, calculates scores, stores quiz resul
 * Python
 * Flask Framework      
 
-### Database          
+### Database                
 
 * MySQL
 
