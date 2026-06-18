@@ -117,7 +117,7 @@ The entered credentials are verified against the database. If valid, the user is
 
 ## 4. templates/subjects.html
 
-This page displays all available quiz subjects.
+This page displays all available quiz subjects.       
 
 ### Example Subjects
 
